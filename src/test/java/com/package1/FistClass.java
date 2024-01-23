@@ -7,6 +7,7 @@ public class FistClass {
 		
 		System.out.println("---------hello-----");
 		System.out.println("------good morning -----");
+		System.out.println("----good afternoon --");
 		System.out.println("---bye ----");
 		
 	}
