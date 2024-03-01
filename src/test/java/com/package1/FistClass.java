@@ -10,6 +10,7 @@ public class FistClass {
 		System.out.println("---bye ----");
 		System.out.println("------okay------");
 		System.out.println("===");
+		system.out.println();
 	}
 
 }
